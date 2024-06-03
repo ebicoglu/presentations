@@ -2,15 +2,15 @@
 
 ## Presentations I did at software conferences:
 
+- ABP's History | ABP .NET Conference 2023 | Online Event
+  - https://www.youtube.com/watch?v=hB0bY2qEVpA
 - Building Multi-Tenant Applications with ASP.NET Core | Basta Conference | Mainz / Germany
-  
-  https://basta.net/net-framework-c/multi-tenant-applications-aspnet-core
-  
+  - https://basta.net/net-framework-c/multi-tenant-applications-aspnet-core
 - Building Multi-Tenant ASP.NET Core Applications and ABP Framework | .NET Conf 2023 | Online Event
-  
-  https://www.youtube.com/watch?v=3uWeyEbV4c4
-  
+  - PROMO https://basta.net/speaker/alper-ebicoglu/
+  - TALK https://www.youtube.com/watch?v=3uWeyEbV4c4
 - How to Build a Multi-Tenant ASP.NET Core Application | DEVDAYS EUROPE 2024 | Online Event
-  
-  https://events.pinetool.ai/3152/#sessions/105097 & https://www.youtube.com/watch?v=WXE1_73Itnw
-  https://www.youtube.com/watch?v=skIYOdj5yGk&list=PLqYhGsQ9iSEqV6-fhY6DThyK7fa6lGjfe&index=62
+
+  - PROMO: https://events.pinetool.ai/3152/#sessions/105097
+  - INTRO: https://www.youtube.com/watch?v=WXE1_73Itnw
+  - TALK: https://www.youtube.com/watch?v=skIYOdj5yGk
