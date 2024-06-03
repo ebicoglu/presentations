@@ -13,4 +13,4 @@
 - How to Build a Multi-Tenant ASP.NET Core Application | DEVDAYS EUROPE 2024 | Online Event
   
   https://events.pinetool.ai/3152/#sessions/105097 & https://www.youtube.com/watch?v=WXE1_73Itnw
-
+  https://www.youtube.com/watch?v=skIYOdj5yGk&list=PLqYhGsQ9iSEqV6-fhY6DThyK7fa6lGjfe&index=62
