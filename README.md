@@ -2,10 +2,15 @@
 
 ## DotNext 2024
 📍 **Location:** Moscow Monarch Hotel / Russia
+
 📅 **Date:** September 11, 2024 — 15:45 (UTC +3)
+
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications and ABP Framework
+
 🔗 **Website:** https://dotnext.ru/en/talks/92e02d7837e941578bfc3f39e5303b29/
+
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-dotnext-2024.pptx)
+
 ![DotNext_2024](/images/dotnext-2024.jpg)
 
 
