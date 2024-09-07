@@ -41,7 +41,7 @@
 ## DevNot Dotnet Conference
 
 📍 **Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
-📅 **Date:** May 25, 2023 — 15:15 (UTC+3)<br /><br />
+📅 **Date:** May 25, 2023 — 15:15 (UTC+3)<br />
 📕 **Title:** ASP.NET Core & Multi-tenancy<br />
 🔗 **Website:** https://dotnet.devnot.com/<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-devnot-2024_35mins.pptx)<br />
