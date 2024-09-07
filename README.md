@@ -31,7 +31,7 @@
 📅 **Date:** November 16, 2023 — 09:00 (UTC+3)<br />
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications and ABP Framework <br />
 🔗 **Website:** https://www.youtube.com/watch?v=3uWeyEbV4c4<br />
-📁 **Presentation File:** [Presentation.pptx](multi-tenancy-dotnet-conf-<br />2023__25mins.pptx)
+📁 **Presentation File:** [Presentation.pptx](multi-tenancy-dotnet-conf-<br />2023__25mins.pptx)<br />
 ![Dotnet_Conf_2022](/images/dotnetconf-2023.jpg)<br />
 
 
