@@ -25,7 +25,7 @@
 ---
 
 
-## .NET Conf 2023
+## .NET Conf 2023 (Microsoft)
 
 📍 **Location:** [Microsoft Website Online](https://www.dotnetconf.net/)<br />
 📅 **Date:** November 16, 2023 — 09:00 (UTC+3)<br />
