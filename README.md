@@ -42,7 +42,7 @@ You can find my talks at various developer conferences.
 🔗 **Website:** https://dotnext.ru/en/talks/92e02d7837e941578bfc3f39e5303b29/<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-dotnext-2024.pptx)<br/>
 
-![DotNext_Moscow_2024](/images/dotnext-2024.jpg)
+![DotNext_Moscow_2024](/images/dotnext_moscow_2024.jpg)
 
 ---
 
@@ -54,12 +54,12 @@ You can find my talks at various developer conferences.
 🔗 **Intro**: https://www.youtube.com/watch?v=WXE1_73Itnw<br />
 🔗 **Talk**: https://www.youtube.com/watch?v=skIYOdj5yGk<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-devdays-2024.pptx)<br />
-![DevDays_Lithuania_2024](/images/devdays-2024.jpg)
+![DevDays_Lithuania_2024](/images/devdays_europe_2024.jpg)
 
 ---
 
 
-## .NET Conf 2023 (Microsoft)
+## Microsoft .NET Conf 2023
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications and ABP Framework <br />
 📍 **Location:** [Microsoft Website Online](https://www.dotnetconf.net/)<br />
 📅 **Date:** November 16, 2023 — 09:00 (UTC+3)<br />
@@ -72,12 +72,12 @@ You can find my talks at various developer conferences.
 
 
 ## DevNot Dotnet Conference
-📕 **Title:** ASP.NET Core & Multi-tenancy<br />
-📍 **Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
-📅 **Date:** May 25, 2023 — 15:15 (UTC+3)<br />
-🔗 **Website:** https://dotnet.devnot.com/<br />
+📕 **Title:** How to Build a Multi-Tenant ASP.NET Core Application<br />
+📍 Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
+📅 **Date:** May 25, 2024 <br />
+🔗 **Website:** https://dotnet.devnot.com/2024/<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-devnot-2024_35mins.pptx)<br />
-![Devnot_Istanbul_2023](/images/devnot-2023.jpg)
+![Devnot_Istanbul_2024](/images/devnot_dotnetconf_istanbul_2024.jpg)
 
 
 ---
@@ -86,10 +86,10 @@ You can find my talks at various developer conferences.
 ## Basta Conference 
 📕 **Title:** Building Multi-Tenant Applications with ASP.NET Core<br />
 📍 **Location:** Mainz / Germany<br />
-📅 **Date:** September 26, 2023 — 17:00 (UTC+1)<br />
+📅 **Date:** September 26, 2023<br />
 🔗 **Website:** https://basta.net/net-framework-c/multi-tenant-applications-aspnet-core<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-basta-conf.pptx)
-![Basta_Germany_2023](/images/basta-2023.jpg)
+![Basta_Germany_2023](/images/basta_germany_2023.jpg)
 
 
 ---
