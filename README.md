@@ -8,6 +8,7 @@ You can find my talks at various developer conferences.
 📅 **Date:** July 11, 2025 <br />
 🔗 **Website:** https://www.wearedevelopers.com/world-congress<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-wearedevelopers-2025_30mins.pptx)<br />
+🔗 **Talk**: https://www.youtube.com/watch?v=64CJpMdcWgA
 
 ![WeAreDevelopers_Berlin_2025](images/wearedevelopers-berlin-2025.jpg)
 
