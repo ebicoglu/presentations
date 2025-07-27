@@ -74,7 +74,7 @@ You can find my talks at various developer conferences.
 
 ## DevNot Dotnet Conference
 📕 **Title:** How to Build a Multi-Tenant ASP.NET Core Application<br />
-📍 Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
+📍 **Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
 📅 **Date:** May 25, 2024 <br />
 🔗 **Website:** https://dotnet.devnot.com/2024/<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-devnot-2024_35mins.pptx)<br />
