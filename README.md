@@ -2,6 +2,18 @@
 
 You can find my talks at various developer conferences.
 
+
+
+
+## Devnot .NET Conf 2026
+📕 **Title:** From Natural Language to SQL<br />
+📍 **Location:** Istanbul / Turkey <br />
+📅 **Date:** May 07, 2026 <br />
+🔗 **Website:** [dotnet.devnot.com](https://dotnet.devnot.com/)<br />
+![Devnot .NET Conf 2026](https://github.com/user-attachments/assets/42281d2c-0aba-4bb6-b5d8-4bbe4f0dd2a0)
+
+---
+
 ## WeAreDevelopers World Congress
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications: Best Practices and Real-World Solutions<br />
 📍 **Location:** Berlin / Germany <br />
