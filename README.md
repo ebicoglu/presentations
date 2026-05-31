@@ -116,3 +116,10 @@ You can find my talks at various developer conferences.
 📁 **Presentation File:** [Presentation.pptx](abp-conf-2023-keynote.pptx)<br />
 ![ABP-Conf_Online_2023](images/abpconf-2023.jpg)
 
+---
+
+Profile pictures:
+* <img width="400" height="400" alt="conf-pic" src="https://github.com/user-attachments/assets/a2d49b95-ce19-406f-847e-afaf39dabeb0" />
+* <img width="400" height="400" alt="alper-dotnext" src="https://github.com/user-attachments/assets/5f836846-1355-490a-87ab-5172e5b0f7c5" />
+
+
