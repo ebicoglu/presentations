@@ -3,7 +3,14 @@
 You can find my talks at various developer conferences.
 
 
+## DevDays 2026
+📕 **Title:** From Natural Language to SQL: Building an AI-Powered Query Generator with .NET<br />
+📍 **Location:** Vilnius / Lithuania <br />
+📅 **Date:** May 21, 2026 <br />
+🔗 **Website:** [devdays.lt](https://events.pinetool.ai/3574/#sessions/112182)<br />
+![DevDays_2026](https://github.com/user-attachments/assets/8abc5e43-72c3-4690-a8b3-553e459a4409)
 
+---
 
 ## Devnot .NET Conf 2026
 📕 **Title:** From Natural Language to SQL<br />
@@ -18,7 +25,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications: Best Practices and Real-World Solutions<br />
 📍 **Location:** Berlin / Germany <br />
 📅 **Date:** July 11, 2025 <br />
-🔗 **Website:** https://www.wearedevelopers.com/world-congress<br />
+🔗 **Website:** [wearedevelopers.com/world-congress](https://www.wearedevelopers.com/world-congress)<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-wearedevelopers-2025_30mins.pptx)<br />
 🔗 **Talk**: https://www.youtube.com/watch?v=64CJpMdcWgA
 
@@ -30,7 +37,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** Anatomy Of AI<br />
 📍 **Location:** Sheraton Grand İstanbul / Turkey <br />
 📅 **Date:** May 24, 2025 <br />
-🔗 **Website:** https://dotnet.devnot.com<br />
+🔗 **Website:** [dotnet.devnot.com](https://dotnet.devnot.com)<br />
 📁 **Presentation File:** [Presentation.pptx](https://github.com/ebicoglu/devnot_dotnet_25_konf/blob/main/anatomy-of-ai.pptx)<br />
 
 ![DevNot_Istanbul_2025](images/devnot_dotnet_conf_2025_istanbul.png)
@@ -41,7 +48,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** How to Start AI As a Simple Developer<br />
 📍 **Location:** Bursa / Turkey <br />
 📅 **Date:** February 02, 2025 <br />
-🔗 **Website:** https://bursa.dev<br />
+🔗 **Website:** [bursa.dev](https://bursa.dev)<br />
 📁 **Presentation File:** [Presentation.pptx](ai-as-a-simple-developer-bursa-2025-02-08.pptx)<br />
 
 ![Bbt_Connect_Net_2025](images/bursa-bbt-connect-2025.jpg) 
@@ -52,7 +59,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications and ABP Framework<br />
 📍 **Location:** Moscow Monarch Hotel / Russia <br />
 📅 **Date:** September 11, 2024<br />
-🔗 **Website:** https://dotnext.ru/en/talks/92e02d7837e941578bfc3f39e5303b29/<br />
+🔗 **Website:** [dotnext.ru](https://dotnext.ru/en/talks/92e02d7837e941578bfc3f39e5303b29/)<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-dotnext-2024.pptx)<br/>
 
 ![DotNext_Moscow_2024](images/dotnext_moscow_2024.jpg)
@@ -88,7 +95,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** How to Build a Multi-Tenant ASP.NET Core Application<br />
 📍 **Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
 📅 **Date:** May 25, 2024 <br />
-🔗 **Website:** https://dotnet.devnot.com/2024/<br />
+🔗 **Website:** [dotnet.devnot.com/2024/](https://dotnet.devnot.com/2024/)<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-devnot-2024_35mins.pptx)<br />
 ![Devnot_Istanbul_2024](images/devnot_dotnetconf_istanbul_2024.jpg)
 
@@ -100,7 +107,7 @@ You can find my talks at various developer conferences.
 📕 **Title:** Building Multi-Tenant Applications with ASP.NET Core<br />
 📍 **Location:** Mainz / Germany<br />
 📅 **Date:** September 26, 2023<br />
-🔗 **Website:** https://basta.net/net-framework-c/multi-tenant-applications-aspnet-core<br />
+🔗 **Website:** [basta.net](https://basta.net/net-framework-c/multi-tenant-applications-aspnet-core)<br />
 📁 **Presentation File:** [Presentation.pptx](multi-tenancy-with-abp-basta-conf.pptx)
 ![Basta_Germany_2023](images/basta_germany_2023.jpg)
 
