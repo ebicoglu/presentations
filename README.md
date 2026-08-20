@@ -21,7 +21,7 @@ Here's my talks at various developer conferences:
 📍 **Location:** Vilnius / Lithuania <br />
 📅 **Date:** May 21, 2026 <br />
 🔗 **Website:** [devdays.lt](https://events.pinetool.ai/3574/#sessions/112182)<br />
-![DevDays_2026](https://github.com/user-attachments/assets/8abc5e43-72c3-4690-a8b3-553e459a4409)
+![DevDays_2026](/images/devdays-2026.jpg)
 
 ---
 
@@ -30,11 +30,11 @@ Here's my talks at various developer conferences:
 📍 **Location:** Istanbul / Turkey <br />
 📅 **Date:** May 07, 2026 <br />
 🔗 **Website:** [dotnet.devnot.com](https://dotnet.devnot.com/)<br />
-![Devnot .NET Conf 2026](https://github.com/user-attachments/assets/42281d2c-0aba-4bb6-b5d8-4bbe4f0dd2a0)
+![Devnot .NET Conf 2026](/images/devnot-dotnet-konferans-2026.png)
 
 ---
 
-## WeAreDevelopers World Congress
+## WeAreDevelopers World Congress 2025
 📕 **Title:** Building Multi-Tenant ASP.NET Core Applications: Best Practices and Real-World Solutions<br />
 📍 **Location:** Berlin / Germany <br />
 📅 **Date:** July 11, 2025 <br />
@@ -46,7 +46,7 @@ Here's my talks at various developer conferences:
 
 ---
 
-## DevNot .NET Conference 
+## DevNot .NET Conference 2025
 📕 **Title:** Anatomy Of AI<br />
 📍 **Location:** Sheraton Grand İstanbul / Turkey <br />
 📅 **Date:** May 24, 2025 <br />
@@ -57,7 +57,7 @@ Here's my talks at various developer conferences:
 
 ---
 
-## BBT Connect .NET
+## BBT Connect .NET 2025
 📕 **Title:** How to Start AI As a Simple Developer<br />
 📍 **Location:** Bursa / Turkey <br />
 📅 **Date:** February 02, 2025 <br />
@@ -104,7 +104,7 @@ Here's my talks at various developer conferences:
 ---
 
 
-## DevNot Dotnet Conference
+## DevNot Dotnet Conference 2024
 📕 **Title:** How to Build a Multi-Tenant ASP.NET Core Application<br />
 📍 **Location:** Istanbul Ataşehir Sheraton Hotel  / Turkey<br />
 📅 **Date:** May 25, 2024 <br />
@@ -116,7 +116,7 @@ Here's my talks at various developer conferences:
 ---
 
 
-## Basta Conference 
+## Basta Conference  2023
 📕 **Title:** Building Multi-Tenant Applications with ASP.NET Core<br />
 📍 **Location:** Mainz / Germany<br />
 📅 **Date:** September 26, 2023<br />
@@ -138,7 +138,8 @@ Here's my talks at various developer conferences:
 
 ---
 
-Profile pictures:
+### Profile pictures for use in conference calls:
+
 * <img width="400" height="400" alt="conf-pic" src="https://github.com/user-attachments/assets/a2d49b95-ce19-406f-847e-afaf39dabeb0" />
 * <img width="400" height="400" alt="alper-dotnext" src="https://github.com/user-attachments/assets/5f836846-1355-490a-87ab-5172e5b0f7c5" />
 
