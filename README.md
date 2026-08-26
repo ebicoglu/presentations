@@ -2,6 +2,17 @@
 
 Here's my talks at various developer conferences:
 
+## WeAreDevelopers North America 2026
+
+📕 **Title:** Chat with Your Data: From Natural Language to SQL<br />
+📍 **Location:** San Jose / California <br />
+📅 **Date:** September 23, 2026 <br />
+🔗 **Website:** [wearedevelopers.us](https://www.wearedevelopers.com/world-congress-north-america)<br />
+
+![WeAreDevelopers_SanJose_2026](/images/WeAreDevelopers_SanJose_2026.png)
+
+---
+
 ## Convex 2026
 
 📕 **Title:** Chat with Your Data: Turn any database into a conversational reporting<br />
