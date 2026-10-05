@@ -8,6 +8,7 @@ Here's my talks at various developer conferences:
 📍 **Location:** San Jose / California <br />
 📅 **Date:** September 23, 2026 <br />
 🔗 **Website:** [wearedevelopers.us](https://www.wearedevelopers.com/world-congress-north-america)<br />
+🔗 **Talk**: https://www.youtube.com/live/tRvMmPHCsL4?si=Aky-a8TB6NNfQjgq <br />
 
 ![WeAreDevelopers_SanJose_2026](/images/WeAreDevelopers_SanJose_2026.png)
 
