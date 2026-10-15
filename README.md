@@ -10,7 +10,7 @@ Here's my talks at various developer conferences:
 🔗 **Website:** [wearedevelopers.us](https://www.wearedevelopers.com/world-congress-north-america)<br />
 🔗 **Talk**: https://www.youtube.com/live/tRvMmPHCsL4 <br />
 
-![WeAreDevelopers_SanJose_2026](/images/WeAreDevelopers_SanJose_2026.png)
+![WeAreDevelopers_SanJose_2026](/images/WeAreDevelopers-USA-2026.jpg)
 
 ---
 
