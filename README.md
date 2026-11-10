@@ -2,6 +2,17 @@
 
 Here's my talks at various developer conferences:
 
+## DevAI 2026
+
+📕 **Title:** Talk With Your Data: Building AI-Powered Reporting<br />
+📍 **Location:** Warsaw / Poland <br />
+📅 **Date:** October 19, 2026 <br />
+🔗 **Website:** [devai.dssconf.pl](https://devai.dssconf.pl/)<br />
+
+![DevAi_Warsaw_2026](/images/devai-warsaw-2026.png)
+
+---
+
 ## WeAreDevelopers North America 2026
 
 📕 **Title:** Chat with Your Data: From Natural Language to SQL<br />
